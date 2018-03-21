@@ -3,7 +3,7 @@ package com.example.oscar.marvelheroes;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-public class SplashScreen extends AppCompatActivity {
+public class MainActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
